@@ -48,8 +48,8 @@ body {
 .studio-header {
   color: var(--studio-header);
 }
-.studio-footer {
-  color: var(--studio-footer);
+.studio {
+  color: #f4f4fd;
 }
 
 /* ---------------HEADER------------------ */
@@ -65,12 +65,12 @@ body {
 .adress {
   font-style: normal;
   font-weight: 400;
+  color: #434455;
 }
 .contact-item {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
 }
 
 /* ---------------HERO------------------ */
@@ -98,18 +98,12 @@ body {
   color: var(--second-title-color);
 }
 .modal-btn-hover {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  display: flex;
-  align-items: center;
-  letter-spacing: 0.04em;
-  color: var(--second-title-color);
+  background-color: #4d5ae5;
 }
 
 .button:hover,
 .button:focus {
-  background-color: #404bbf;
+  background-color: #4d5ae5;
   cursor: pointer;
 }
 
