@@ -45,7 +45,7 @@ body {
   color: var(--main-logo);
 }
 
-.studio-header {
+.header-studio {
   color: var(--studio-header);
 }
 .studio {
@@ -62,6 +62,10 @@ body {
   color: var(--main-title-color);
 }
 
+.header-list {
+  background-color: #404bbf;
+  cursor: pointer;
+}
 .adress {
   font-style: normal;
   font-weight: 400;
@@ -71,6 +75,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #434455;
 }
 
 /* ---------------HERO------------------ */
@@ -99,7 +104,10 @@ body {
   background-color: #4d5ae5;
 }
 
-.button:hover,
+.button:hover {
+  background-color: #404bbf;
+  cursor: pointer;
+}
 .button:focus {
   background-color: #404bbf;
   cursor: pointer;
