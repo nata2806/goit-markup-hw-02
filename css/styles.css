@@ -96,14 +96,12 @@ body {
   align-items: center;
   letter-spacing: 0.04em;
   color: var(--second-title-color);
-}
-.modal-btn-hover {
   background-color: #4d5ae5;
 }
 
 .button:hover,
 .button:focus {
-  background-color: #4d5ae5;
+  background-color: #404bbf;
   cursor: pointer;
 }
 
