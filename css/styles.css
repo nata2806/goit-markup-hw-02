@@ -62,8 +62,9 @@ body {
   color: var(--main-title-color);
 }
 
-.header-list {
-  background-color: #404bbf;
+.header-list:hover,
+.header-list:focus {
+  color: #404bbf;
   cursor: pointer;
 }
 .adress {
