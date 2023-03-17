@@ -4,6 +4,7 @@
   --main-logo: #4d5ae5;
   --studio-header: #2e2f42;
   --studio-footer: #f4f4fd;
+  --list: #434455;
 }
 
 body {
@@ -62,6 +63,10 @@ body {
   color: var(--main-title-color);
 }
 
+.header-list {
+  color: var(--list);
+}
+
 .header-list:hover,
 .header-list:focus {
   color: #404bbf;
@@ -70,13 +75,16 @@ body {
 .adress {
   font-style: normal;
   font-weight: 400;
-  color: #434455;
 }
 .contact-item {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+  color: var(--list);
+}
+.contact-item:hover,
+.contact-item:focus {
+  color: var(--list);
 }
 
 /* ---------------HERO------------------ */
