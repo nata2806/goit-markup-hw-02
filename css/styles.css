@@ -179,6 +179,7 @@ body {
 }
 
 /* ---------------FILTERS------------------ */
+
 .portfolio-button {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -194,4 +195,24 @@ body {
 .portfolio-button:hover,
 .portfolio-button:focus {
   color: #ffffff;
+}
+
+/* ---------------OUR SERVICES------------------ */
+
+.apps {
+  background: #ffffff;
+}
+.item {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.app {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
