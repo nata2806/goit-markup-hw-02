@@ -189,6 +189,7 @@ body {
   align-items: center;
   text-align: center;
   letter-spacing: 0.04em;
+  border: none;
   color: #4d5ae5;
   background-color: #f4f4fd;
 }
