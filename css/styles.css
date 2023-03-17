@@ -44,6 +44,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--main-logo);
+  cursor: pointer;
 }
 
 .header-studio {
@@ -175,4 +176,22 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--studio-footer);
+}
+
+/* ---------------FILTERS------------------ */
+.portfolio-button {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.04em;
+  color: #4d5ae5;
+}
+
+.portfolio-button:hover,
+.portfolio-button:focus {
+  color: #ffffff;
 }
