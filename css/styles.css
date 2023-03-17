@@ -63,28 +63,18 @@ body {
   color: var(--main-title-color);
 }
 
-.header-list {
+.header-item {
   color: var(--list);
 }
 
-.header-list:hover,
-.header-list:focus {
+.header-item:hover,
+.header-item:focus {
   color: #404bbf;
   cursor: pointer;
 }
 .adress {
   font-style: normal;
   font-weight: 400;
-}
-.contact-item {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: var(--list);
-}
-.contact-item:hover,
-.contact-item:focus {
-  color: var(--list);
 }
 
 /* ---------------HERO------------------ */
