@@ -22,7 +22,6 @@ body {
 }
 
 .description {
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -89,7 +88,6 @@ body {
   background: #2e2f42;
 }
 .title {
-  font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
@@ -121,17 +119,14 @@ body {
 /* ---------------WE CAN------------------ */
 
 .we-can {
-  font-weight: 500;
 }
 .section-title {
-  font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--main-title-color);
 }
 .section-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -150,7 +145,6 @@ body {
   background-color: #ffffff;
 }
 .person {
-  font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
 
@@ -158,7 +152,6 @@ body {
   color: var(--main-title-color);
 }
 .position {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
 
@@ -171,7 +164,6 @@ body {
 }
 
 .footer-description {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -182,7 +174,6 @@ body {
 
 .portfolio-button {
   font-family: "Roboto", sans-serif;
-  font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   display: flex;
@@ -202,14 +193,12 @@ body {
 /* ---------------OUR SERVICES------------------ */
 
 .item {
-  font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--main-title-color);
 }
 .app {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
